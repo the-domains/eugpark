@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[eugpark]]></title>
-        <description><![CDATA[eugpark]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Eugene Park]]></title>
+        <description><![CDATA[Eugene Park]]></description>
+        <link>https://thegrid.ai/eugpark/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 05:00:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 05:01:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eugpark/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb609e36-71a8-4e69-95a9-bf38d4bc243a.jpg">]]></description>
-            <link>undefinedthe-beginning/index.html</link>
+            <link>https://thegrid.ai/eugpark/the-beginning/index.html</link>
             <guid isPermaLink="false">e76210d1-968a-4c88-a813-5c14c3014c85</guid>
-            <pubDate>Tue, 26 Apr 2016 04:59:45 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 05:01:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
