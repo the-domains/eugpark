@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The Beginning '
-datePublished: '2016-04-26T04:59:45.327Z'
-dateModified: '2016-04-26T04:58:47.125Z'
+datePublished: '2016-04-26T05:01:26.340Z'
+dateModified: '2016-04-26T04:59:46.507Z'
 title: ''
 author: []
 authors: []
@@ -30,4 +30,6 @@ Let's see how this goes.
 
 I've never been good with writing, let alone writing my thoughts. (esp my gramarr as u will c) But like some of my peers and friends have been telling me, the more you write the more you will know. 
 
-So what will I write? I'm a seminary student, husband of one year, a church intern, a member of a campus ministry leadership, TV-show addict, coffee loving, Golden State Warriors fan. So with that, probably a lot of random stuff.
+So what will I write? I'm a seminary student, husband of one year, a church intern, a member of a campus ministry leadership, TV-show addict, coffee loving, social media observer, Golden State Warriors fan. So with that, probably a lot of random stuff. 
+
+Cheers.
